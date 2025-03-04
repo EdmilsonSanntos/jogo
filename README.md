@@ -10,10 +10,6 @@ Como usar:
 2.	Na tela inicial, insira os nomes dos participantes.
 3.	Clique no botão "Sortear" para realizar o sorteio.
 4.	Os resultados serão exibidos na tela.
-Capturas de tela:
-   
-Vídeo demonstrativo:
-[Insira aqui um link para um vídeo demonstrativo do aplicativo, se disponível.]
 Dependências:
 •	Nenhuma dependência externa necessária. O projeto é totalmente autônomo.
 Tecnologias:
